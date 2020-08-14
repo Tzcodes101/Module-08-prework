@@ -1,0 +1,9 @@
+The heading was not set as an h1
+There were no paragraph tags
+The hyperlink in the anchor tag was not within the quotation marks
+There was no text for the hyperlink to refer to
+The div tags were not organized
+The list did not have li tags
+In JS, pink was not in quotes, neither was click for boxGrow and boxSrhink
+booFacts was not booFactsArray
+I rearranged the html so everything was the same layout as Grumpy Cat
